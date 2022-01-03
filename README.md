@@ -1,6 +1,6 @@
 # Nodejs Postgres Application
 
-A demo Quotes REST API using Node.js and PostgreSQL.
+A simple Quotes REST API using Node.js and PostgreSQL.
 
 ## Deploy with Heroku
 
